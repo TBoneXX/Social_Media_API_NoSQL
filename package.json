@@ -1,0 +1,21 @@
+{
+  "name": "social_media_api_nosql",
+  "version": "1.0.0",
+  "description": "An API for a social media network using NoSQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBoneXX/Social_Media_API_NoSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TBoneXX/Social_Media_API_NoSQL/issues"
+  },
+  "homepage": "https://github.com/TBoneXX/Social_Media_API_NoSQL#readme"
+}
