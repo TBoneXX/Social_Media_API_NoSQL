@@ -1,9 +1,9 @@
 const { connect, connection } = require('mongoose');
 
-const connectionString =
+const connectionMongoDB =
   process.env.MONGODB_URI || 'mongodb://localhost:27017/socialMediaAPINoSQL';
 
-connect(connectionString, {
+connect(connectionMongoDB, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
